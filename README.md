@@ -1,3 +1,5 @@
+This guide demonstrates how to integrate Inertia.js and React with Laravel without using a starter kit. It provides step-by-step instructions to set up a modern single-page application (SPA) using Laravel as the backend and React as the frontend. For design we used mordan css tailwind cli.
+
 # Code of Conduct
 ## about project
 In this project we have intigrated `laravel 11` and `Inertia.js`
