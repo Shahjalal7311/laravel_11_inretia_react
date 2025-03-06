@@ -53,7 +53,16 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Code of Conduct
+# Code of Conduct
+## about project
+In this project we have intigrated `laravel 11` and `Inertia.js`
+
+ - **laravel 11**
+ - **Inertia.js**
+ - **nextjs**
+
+all those integrated with form step by step.
+Articel link: [ link: https://medium.com/@mdjalal2012/laravel-with-inertia-js-and-react-no-starter-kit-cb60a157474c]
 
 ## Environment setup
     - Node version 16 or later
