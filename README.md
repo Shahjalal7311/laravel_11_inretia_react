@@ -17,10 +17,12 @@ Articel link: [ link: https://medium.com/@mdjalal2012/laravel-with-inertia-js-an
     - Mysql
     
 ## Project setup
-    - clone the project: git remote add origin https://github.com/Shahjalal7311/laravel_11_inretia_react.git
-    - go to the dirctory 
-    - composer install: composer install
-    - npm install: install npm
+   ```bash
+    git clone https://github.com/Shahjalal7311/laravel_11_inretia_react.git
+    cd  laravel_11_inretia_react
+    composer install
+    install npm
+   ```
 
 ## For deployement
   - php artisan serve
